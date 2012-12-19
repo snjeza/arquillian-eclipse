@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.jboss.tools.arquillian.feature_1.0.2.201212192237.jar" id="org.jboss.tools.arquillian.feature" version="1.0.2.201212192237">
+      <category name="org.jboss.tools.arquillian"/>
+   </feature>
+   <category-def name="org.jboss.tools.arquillian" label="Arquillian Support"/>
+</site>

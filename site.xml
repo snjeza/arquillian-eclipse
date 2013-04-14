@@ -3,10 +3,10 @@
    <description>
       To install these features, point Eclipse at this site.
    </description>
-   <feature url="features/org.jboss.tools.arquillian.feature_1.0.4.Alpha2-v20130318-1944.jar" id="org.jboss.tools.arquillian.feature" version="1.0.4.Alpha2-v20130318-1944">
+   <feature url="features/org.jboss.tools.arquillian.feature_1.0.4.Alpha2-v20130414-1502.jar" id="org.jboss.tools.arquillian.feature" version="1.0.4.Alpha2-v20130414-1502">
       <category name="JBoss Tools arquillian Nightly Build Update Site"/>
    </feature>
-   <feature url="features/org.jboss.tools.arquillian.feature.source_1.0.4.Alpha2-v20130318-1944.jar" id="org.jboss.tools.arquillian.feature.source" version="1.0.4.Alpha2-v20130318-1944">
+   <feature url="features/org.jboss.tools.arquillian.feature.source_1.0.4.Alpha2-v20130414-1502.jar" id="org.jboss.tools.arquillian.feature.source" version="1.0.4.Alpha2-v20130414-1502">
       <category name="JBoss Tools arquillian Nightly Build Update Site"/>
    </feature>
    <category-def name="JBoss Tools arquillian Nightly Build Update Site" label="JBoss Tools arquillian Nightly Build Update Site">
